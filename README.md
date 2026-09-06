@@ -24,6 +24,7 @@ MIT
 https://github.com/loc156/imgui-playground/blob/main/LICENSE
 
 ## 快速开始
+来自ai生成的快速案例
 
 ```cpp
 #include "Renderer.h"
